@@ -25,4 +25,4 @@ A simple Sudoku game implemented in HTML, CSS, and JavaScript. Players can fill 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sid1357/Sudoku.git
